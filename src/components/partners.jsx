@@ -67,7 +67,7 @@ export default function Partners() {
         <Wrapper >
 
           <Fade bottom >
-            <p className="text-4xl md:text-5xl  text-left text-text_color2 gil-bold lg:pt-10 " style={{ display: 'flex', justifyContent: 'center' }} >
+            <p className="text-4xl md:text-5xl  text-left text-text_color2 gil-bold " style={{ display: 'flex', justifyContent: 'center' }} >
               Our Partners
             </p>
           </Fade>
