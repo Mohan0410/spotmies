@@ -75,6 +75,11 @@ export default function FooterBar() {
                     Blog
                   </a>
                 </li>
+                <li className="mb-2 lg:text-xl">
+                  <a href="/career" className="hover:text-white">
+                    Careers
+                  </a>
+                </li>
               </ul>
             </div>
             <div className="w-full md:w-1/5 lg:w-1/5">
@@ -137,7 +142,7 @@ export default function FooterBar() {
           </div>
           <div className="w-full flex flex-col md:flex-row items-center justify-between">
             <div className="text-sm lg:text-lg text-gray-400">
-              © 2023 Spotmies LLP. All Rights Reserved.
+              © 2024 Spotmies LLP. All Rights Reserved.
             </div>
             <div className="flex space-x-4 md:pt-0 lg:pt-0 pt-4">
               <a
